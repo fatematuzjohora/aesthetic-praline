@@ -8,7 +8,11 @@
     gap: 10px;
     margin-right: 8px;
 }
+.cart-container{
+    border-radius: 10px;
+    box-shadow: 9px slategray;
 
+}
 .choose-btn{
     display: flex;
     align-items: center;
