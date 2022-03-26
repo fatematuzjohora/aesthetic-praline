@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Watch from '../Watch/Watch';
 import Cart from '../Cart/Cart'
+import BONUS from '../Q&A/BONUS.JS';
 
 const Watchs = () => {
     const [products, setProducts] = useState([])
@@ -50,6 +51,7 @@ const Watchs = () => {
         </button>
         </div>
       </div>
+      <BONUS></BONUS>
         </div>
     );
 };
