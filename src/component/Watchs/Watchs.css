@@ -1,0 +1,32 @@
+.watch-container{
+    display: grid;
+    grid-template-columns: 3.5fr 1.5fr;
+}
+.product-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-right: 8px;
+}
+.cart-container{
+    border-radius: 10px;
+    box-shadow: 9px slategray;
+
+}
+.choose-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+@media screen and (max-width: 600px) {
+    .watch-container{
+        display: grid;
+        grid-template-columns:auto;
+    }
+    .product-container{
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 5px;
+        margin-right: 0px;
+    }
+}

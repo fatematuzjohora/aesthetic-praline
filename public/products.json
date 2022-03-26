@@ -1,0 +1,56 @@
+[
+    {
+      "name": "Fossil",
+      "id": 1,
+      "price": 75000,
+      "img": "https://i.ibb.co/yffL6Ds/picture-1.jpg"
+    },
+    {
+      "name": "Bulova",
+      "id": 2,
+      "price": 15000,
+      "img": "https://i.ibb.co/xqfQSDS/picture-2.jpg"
+    },
+    {
+      "name": "Secko",
+      "id": 3,
+      "price": 33100,
+      "img": "https://i.ibb.co/kQDVszP/picture-3.jpg"
+    },
+    {
+      "name": "Rolex",
+      "id": 4,
+      "price": 9100,
+      "img": "https://i.ibb.co/bBYhPWg/picture-4.jpg"
+    },
+    {
+      "name": "Candino",
+      "id": 5,
+      "price": 23100,
+      "img": "https://i.ibb.co/NTYGL02/picture-5.jpg"
+    },
+    {
+      "name": "Casio",
+      "id": 6,
+      "price": 1800,
+      "img": "https://i.ibb.co/095kgMW/picture-6.jpg"
+    },
+    {
+      "name": "Istila",
+      "id": 7,
+      "price": 9100,
+      "img": "https://i.ibb.co/4m53BGz/picture-7.jpg"
+    },
+    {
+      "name": "Sofir",
+      "id": 8,
+      "price": 6400,
+      "img": "https://i.ibb.co/VvcR71z/picture-8.jpg"
+    },
+    {
+      "name": "Linax",
+      "id": 9,
+      "price": 10100,
+      "img": "https://i.ibb.co/sqLjxvZ/picture-9.jpg"
+    }
+  ]
