@@ -13,11 +13,7 @@
     box-shadow: 9px slategray;
 
 }
-.choose-btn{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
+
 @media screen and (max-width: 600px) {
     .watch-container{
         display: grid;
